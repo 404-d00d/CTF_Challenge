@@ -5,4 +5,4 @@ Place to store the link to my CTF Challenge.
 https://drive.google.com/file/d/1tA94pWfn8AdcMv72SySQgTc2vycLz4Eg/view
 
 ## How to run:
-Download the file in the link and use either Sleuthkit or Autopsy to extract the information.
+Download the file in the link and use either Sleuthkit or Autopsy to read the disk image and extract the information.
